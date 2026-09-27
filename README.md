@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hello, I'm Owinjo Julius Moses
+### Aspiring Software Engineer | Computer Science Student
 
-<!--
-**jowinz-dev/jowinz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my professional GitHub profile! I am a passionate **Year 1, Semester 1 Computer Science student** building a solid foundation in computer science and software architecture. My long-term goal is to specialize in **Software Engineering** by my final year, creating impactful, scalable, and efficient software systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏃 My Growth Journey (Academic Timeline)
+I believe software engineering is a marathon, not a sprint. Here is how I am structuring my learning journey over my time at university:
+
+* **Year 1 (Foundations):** Mastering structural logic, algorithmic thinking, clean coding standards, and version control.
+* **Year 2 (Intermediate):** Diving into Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), and Database Management Systems (DBMS).
+* **Year 3 & Final Year (Specialization):** Advanced Software Engineering principles, systems design, API architectures, and full-stack development.
+
+---
+
+## 💻 Current Tech Stack & Tools
+As a Semester 1 student, I am focused on mastering core foundational technologies:
+
+* **Core Logic:** Algorithmic Problem Solving, Flowcharts, Pseudocode
+* **Version Control:** Git & GitHub (Repository management, branching, commit discipline)
+* **Development Tools:** VS Code / Terminal Environments
+
+---
+
+## 🛠️ Key Semester 1 Projects
+*Below are the foundational projects I am developing during my first semester to demonstrate my coding logic and structure to my lecturers.*
+
+### 1. Terminal Math Solver / Calculator
+* **Description:** A command-line program built to handle arithmetic operations, demonstrating clean logic gating and error handling (such as avoiding division by zero).
+* **Concepts Covered:** Conditional statements, loops, variables, and user input validation.
+* **Repository:** *[Coming Soon]*
+
+### 2. Basic Records Management System
+* **Description:** A text-based console application designed to simulate data storage (e.g., student grading or inventory tracking) using core file handling or array systems.
+* **Concepts Covered:** Data persistence, arrays/lists, structural design.
+* **Repository:** *[Coming Soon]*
+
+---
