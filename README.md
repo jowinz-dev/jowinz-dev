@@ -3,7 +3,7 @@
 
 Welcome to my professional GitHub profile! I am a passionate **Year 1, Semester 1 Computer Science student** building a solid foundation in computer science and software architecture. My long-term goal is to specialize in **Software Engineering** by my final year, creating impactful, scalable, and efficient software systems.
 
-=============================================================================================================================================================================================================
+=========================================================================================================================================================================================
 
 ## 🏃 My Growth Journey (Academic Timeline)
 I believe software engineering is a marathon, not a sprint. Here is how I am structuring my learning journey over my time at university:
