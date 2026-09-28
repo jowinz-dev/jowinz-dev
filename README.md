@@ -3,7 +3,7 @@
 
 Welcome to my professional GitHub profile! I am a passionate **Year 1, Semester 1 Computer Science student** building a solid foundation in computer science and software architecture. My long-term goal is to specialize in **Software Engineering** by my final year, creating impactful, scalable, and efficient software systems.
 
----
+============================================================================================================================================================================
 
 ## 🏃 My Growth Journey (Academic Timeline)
 I believe software engineering is a marathon, not a sprint. Here is how I am structuring my learning journey over my time at university:
@@ -12,7 +12,7 @@ I believe software engineering is a marathon, not a sprint. Here is how I am str
 * **Year 2 (Intermediate):** Diving into Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), and Database Management Systems (DBMS).
 * **Year 3 & Final Year (Specialization):** Advanced Software Engineering principles, systems design, API architectures, and full-stack development.
 
----
+============================================================================================================================================================================
 
 ## 💻 Current Tech Stack & Tools
 As a Semester 1 student, I am focused on mastering core foundational technologies:
@@ -21,7 +21,7 @@ As a Semester 1 student, I am focused on mastering core foundational technologie
 * **Version Control:** Git & GitHub (Repository management, branching, commit discipline)
 * **Development Tools:** VS Code / Terminal Environments
 
----
+============================================================================================================================================================================
 
 ## 🛠️ Key Semester 1 Projects
 *Below are the foundational projects I am developing during my first semester to demonstrate my coding logic and structure to my lecturers.*
