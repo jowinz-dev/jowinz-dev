@@ -37,4 +37,4 @@ As a Semester 1 student, I am focused on mastering core foundational technologie
 * **Repository:** *[already in]*
 
 ---
-* ** I have also gained the skill of data numeration in my first year
+* I have also gained the skill of data numeration in my first year
