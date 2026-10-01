@@ -5,7 +5,7 @@ Welcome to my professional GitHub profile! I am a passionate **Year 1, Semester 
 
 ---
 
-## 🏃 My Growth Journey (Academic Timeline)
+## 🏃 My Growth Journey ( Academic Timeline ).
 I believe software engineering is a marathon, not a sprint. Here is how I am structuring my learning journey over my time at university:
 
 * **Year 1 (Foundations):** Mastering structural logic, algorithmic thinking, clean coding standards, and version control.
