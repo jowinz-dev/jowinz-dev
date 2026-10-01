@@ -14,7 +14,7 @@ I believe software engineering is a marathon, not a sprint. Here is how I am str
 
 ----
 
-## 💻 Current Tech Stack & Tools
+## 💻 Current Tech Stack & Tools.
 As a Semester 1 student, I am focused on mastering core foundational technologies:
 
 * **Core Logic:** Algorithmic Problem Solving, Flowcharts, Pseudocode
@@ -29,12 +29,12 @@ As a Semester 1 student, I am focused on mastering core foundational technologie
 ### 1. Terminal Math Solver / Calculator
 * **Description:** A command-line program built to handle arithmetic operations, demonstrating clean logic gating and error handling (such as avoiding division by zero).
 * **Concepts Covered:** Conditional statements, loops, variables, and user input validation.
-* **Repository:** *[Coming Soon]*
+* **Repository:** *[already in]*
 
 ### 2. Basic Records Management System
 * **Description:** A text-based console application designed to simulate data storage (e.g., student grading or inventory tracking) using core file handling or array systems.
 * **Concepts Covered:** Data persistence, arrays/lists, structural design.
-* **Repository:** *[Coming Soon]*
+* **Repository:** *[already in]*
 
 ---
 * ** I have also gained the skill of data numeration in my first year
