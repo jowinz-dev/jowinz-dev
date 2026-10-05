@@ -22,7 +22,6 @@ As a Semester 1 student, I am focused on mastering core foundational technologie
 
 ## 🛠️ Key Semester 1 Projects
 *Below are the foundational projects I am developing during my first semester to demonstrate my coding logic and structure to my lecturers.*
-
 ### 1. Terminal Math Solver / Calculator
 * **Description:** A command-line program built to handle arithmetic operations, demonstrating clean logic gating and error handling (such as avoiding division by zero).
 * **Concepts Covered:** Conditional statements, loops, variables, and user input validation.
