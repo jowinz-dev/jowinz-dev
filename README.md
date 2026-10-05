@@ -12,7 +12,6 @@ I believe software engineering is a marathon, not a sprint. Here is how I am str
 * **Year 3 & Final Year (Specialization):** Advanced Software Engineering principles, systems design, API architectures, and full-stack development.
 
 ----
-
 ## 💻 Current Tech Stack & Tools.
 As a Semester 1 student, I am focused on mastering core foundational technologies:
 
