@@ -14,7 +14,6 @@ I believe software engineering is a marathon, not a sprint. Here is how I am str
 ----
 ## 💻 Current Tech Stack & Tools.
 As a Semester 1 student, I am focused on mastering core foundational technologies:
-
 * **Core Logic:** Algorithmic Problem Solving, Flowcharts, Pseudocode
 * **Version Control:** Git & GitHub (Repository management, branching, commit discipline)
 * **Development Tools:** VS Code / Terminal Environments
