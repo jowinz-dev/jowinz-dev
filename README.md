@@ -30,7 +30,7 @@ As a Semester 1 student, I am focused on mastering core foundational technologie
 ### 2. Basic Records Management System
 * **Description:** A text-based console application designed to simulate data storage (e.g., student grading or inventory tracking) using core file handling or array systems.
 * **Concepts Covered:** Data persistence, arrays/lists, structural design.
-* **Repository:** *[already in]*
+* **Repository:** *[Coming soon]*
 
 ---
 * I have also gained the skill of data numeration in my first year
